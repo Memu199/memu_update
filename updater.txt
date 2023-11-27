@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"1.5.2-play",
+ "version":"1.5.2",
  "title":"Update Disponible",
  "description":"RewhasApp Oficial V9.65
 
